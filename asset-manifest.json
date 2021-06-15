@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.js": "/portifolio/static/js/main.2ca20cb3.chunk.js",
-    "main.js.map": "/portifolio/static/js/main.2ca20cb3.chunk.js.map",
+    "main.js": "/portifolio/static/js/main.8df446d3.chunk.js",
+    "main.js.map": "/portifolio/static/js/main.8df446d3.chunk.js.map",
     "runtime-main.js": "/portifolio/static/js/runtime-main.8d4cb788.js",
     "runtime-main.js.map": "/portifolio/static/js/runtime-main.8d4cb788.js.map",
-    "static/js/2.a2bfefc8.chunk.js": "/portifolio/static/js/2.a2bfefc8.chunk.js",
-    "static/js/2.a2bfefc8.chunk.js.map": "/portifolio/static/js/2.a2bfefc8.chunk.js.map",
+    "static/js/2.31cc1b8b.chunk.js": "/portifolio/static/js/2.31cc1b8b.chunk.js",
+    "static/js/2.31cc1b8b.chunk.js.map": "/portifolio/static/js/2.31cc1b8b.chunk.js.map",
     "index.html": "/portifolio/index.html",
-    "static/js/2.a2bfefc8.chunk.js.LICENSE.txt": "/portifolio/static/js/2.a2bfefc8.chunk.js.LICENSE.txt",
+    "static/js/2.31cc1b8b.chunk.js.LICENSE.txt": "/portifolio/static/js/2.31cc1b8b.chunk.js.LICENSE.txt",
     "static/media/foto.1a48d32f.png": "/portifolio/static/media/foto.1a48d32f.png",
-    "static/media/resume.a7f093e7.pdf": "/portifolio/static/media/resume.a7f093e7.pdf"
+    "static/media/pokedex2.fade494f.png": "/portifolio/static/media/pokedex2.fade494f.png",
+    "static/media/resume.a7f093e7.pdf": "/portifolio/static/media/resume.a7f093e7.pdf",
+    "static/media/weather.30c5c27d.png": "/portifolio/static/media/weather.30c5c27d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8d4cb788.js",
-    "static/js/2.a2bfefc8.chunk.js",
-    "static/js/main.2ca20cb3.chunk.js"
+    "static/js/2.31cc1b8b.chunk.js",
+    "static/js/main.8df446d3.chunk.js"
   ]
 }
