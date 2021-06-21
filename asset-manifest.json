@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/portifolio/static/js/main.ccf27a1f.chunk.js",
-    "main.js.map": "/portifolio/static/js/main.ccf27a1f.chunk.js.map",
+    "main.js": "/portifolio/static/js/main.5f2618d2.chunk.js",
+    "main.js.map": "/portifolio/static/js/main.5f2618d2.chunk.js.map",
     "runtime-main.js": "/portifolio/static/js/runtime-main.9b819af0.js",
     "runtime-main.js.map": "/portifolio/static/js/runtime-main.9b819af0.js.map",
-    "static/js/2.c00e509e.chunk.js": "/portifolio/static/js/2.c00e509e.chunk.js",
-    "static/js/2.c00e509e.chunk.js.map": "/portifolio/static/js/2.c00e509e.chunk.js.map",
+    "static/js/2.1109111a.chunk.js": "/portifolio/static/js/2.1109111a.chunk.js",
+    "static/js/2.1109111a.chunk.js.map": "/portifolio/static/js/2.1109111a.chunk.js.map",
     "index.html": "/portifolio/index.html",
-    "static/js/2.c00e509e.chunk.js.LICENSE.txt": "/portifolio/static/js/2.c00e509e.chunk.js.LICENSE.txt",
+    "static/js/2.1109111a.chunk.js.LICENSE.txt": "/portifolio/static/js/2.1109111a.chunk.js.LICENSE.txt",
     "static/media/laptopPokedex.8d3a5ebc.png": "/portifolio/static/media/laptopPokedex.8d3a5ebc.png",
     "static/media/laptopWeather.0c485901.png": "/portifolio/static/media/laptopWeather.0c485901.png",
     "static/media/resume.53473719.pdf": "/portifolio/static/media/resume.53473719.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.9b819af0.js",
-    "static/js/2.c00e509e.chunk.js",
-    "static/js/main.ccf27a1f.chunk.js"
+    "static/js/2.1109111a.chunk.js",
+    "static/js/main.5f2618d2.chunk.js"
   ]
 }
