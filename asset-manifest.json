@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/portifolio/static/js/main.e6d9f9ea.chunk.js",
-    "main.js.map": "/portifolio/static/js/main.e6d9f9ea.chunk.js.map",
+    "main.js": "/portifolio/static/js/main.8756f502.chunk.js",
+    "main.js.map": "/portifolio/static/js/main.8756f502.chunk.js.map",
     "runtime-main.js": "/portifolio/static/js/runtime-main.9b819af0.js",
     "runtime-main.js.map": "/portifolio/static/js/runtime-main.9b819af0.js.map",
-    "static/js/2.5ed31065.chunk.js": "/portifolio/static/js/2.5ed31065.chunk.js",
-    "static/js/2.5ed31065.chunk.js.map": "/portifolio/static/js/2.5ed31065.chunk.js.map",
+    "static/js/2.38f0df4d.chunk.js": "/portifolio/static/js/2.38f0df4d.chunk.js",
+    "static/js/2.38f0df4d.chunk.js.map": "/portifolio/static/js/2.38f0df4d.chunk.js.map",
     "index.html": "/portifolio/index.html",
-    "static/js/2.5ed31065.chunk.js.LICENSE.txt": "/portifolio/static/js/2.5ed31065.chunk.js.LICENSE.txt",
+    "static/js/2.38f0df4d.chunk.js.LICENSE.txt": "/portifolio/static/js/2.38f0df4d.chunk.js.LICENSE.txt",
     "static/media/laptopTwitter.0394a14f.png": "/portifolio/static/media/laptopTwitter.0394a14f.png",
     "static/media/laptopWeather.0c485901.png": "/portifolio/static/media/laptopWeather.0c485901.png",
     "static/media/resume.53473719.pdf": "/portifolio/static/media/resume.53473719.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.9b819af0.js",
-    "static/js/2.5ed31065.chunk.js",
-    "static/js/main.e6d9f9ea.chunk.js"
+    "static/js/2.38f0df4d.chunk.js",
+    "static/js/main.8756f502.chunk.js"
   ]
 }
